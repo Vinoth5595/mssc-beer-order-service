@@ -4,6 +4,7 @@ F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\s
 F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\web\model\OrderStatusUpdate.java
 F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\services\BeerOrderService.java
 F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\repositories\BeerOrderLineRepository.java
+F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\web\mappers\BeerOrderLineMapperDecorator.java
 F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\web\model\BeerOrderDto.java
 F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\web\model\BeerOrderPagedList.java
 F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\web\model\OrderStatusEnum.java
@@ -16,10 +17,13 @@ F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\s
 F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\web\mappers\BeerOrderMapper.java
 F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\web\mappers\DateMapper.java
 F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\BeerOrderServiceApplication.java
+F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\services\beer\BeerService.java
 F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\domain\Customer.java
+F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\services\beer\BeerServiceImpl.java
 F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\domain\BaseEntity.java
 F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\domain\BeerOrder.java
 F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\domain\BeerOrderLine.java
+F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\web\model\BeerDto.java
 F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\web\mappers\BeerOrderLineMapper.java
 F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\repositories\CustomerRepository.java
 F:\Workspace\Playground\SfgProjects\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\services\BeerOrderServiceImpl.java
